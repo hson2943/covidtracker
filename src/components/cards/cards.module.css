@@ -1,0 +1,15 @@
+.cards {}
+
+.cardsTitle {
+    display        : flex;
+    justify-content: center;
+    font-size      : 100px;
+    font-weight    : 700;
+
+}
+
+.cardsCard {
+    justify-content: center;
+    display        : flex;
+    flex-direction : row;
+}
